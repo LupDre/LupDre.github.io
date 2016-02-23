@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline
+tagline: Welcome to Drew's Blog!
 ---
 {% include JB/setup %}
 
